@@ -22,6 +22,6 @@
     border: none;
   }
   .btn-1:hover {
-     background: rgb(0,3,255);
+     background: rgb(55, 55, 63);
   background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
   }
